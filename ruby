@@ -1,7 +1,8 @@
-puts "Hello World!"
-puts "Hello Again"
-puts "I like typing this."
-puts "This is fun."
-puts "Yay! Printing."
-puts "I'd much rather you 'not'."
-puts 'I "said" do not touch this.'
+task :default => [:test]
+task :test => :test2 do
+  puts "hey There"
+end
+
+task :test2  do
+  puts "holla There"
+end
