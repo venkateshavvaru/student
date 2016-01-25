@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/ubuntu/ALL/playws/my-first-app/first/conf/application.conf,/home/ubuntu/ALL/playws/my-first-app/first/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/ubuntu/ALL/playws/my-first-app/first/conf/logback.xml,/home/ubuntu/ALL/playws/my-first-app/first/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/ubuntu/ALL/playws/my-first-app/first/conf/routes,/home/ubuntu/ALL/playws/my-first-app/first/target/scala-2.11/classes/routes)[0m
